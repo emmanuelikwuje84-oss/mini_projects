@@ -1,7 +1,6 @@
 
 import json
 import os
-from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -12,7 +11,7 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
-FILE_NAME = Path(__file__).with_name("ticket.json")
+FILE_NAME = "ticket.json"
 tickets = []
 
 

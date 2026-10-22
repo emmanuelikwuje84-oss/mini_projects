@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "my keyboard is not typing",
+        "title": "my computer is running slow",
         "category": "hardware",
-        "affected_user": 123,
+        "affected_user": 5,
         "urgency": "high",
-        "ai_answer": "**Possible cause:** The keyboard may not be properly connected or there could be a software/hardware issue.\n\n**Solution:**\n1. **Check connection:** Make sure your keyboard is properly plugged into your computer via USB or connected to Wi-Fi/Bluetooth. If using USB, try a different port or cable.\n2. **Restart devices:** Turn off your computer and keyboard, wait 10 seconds, then turn them back on to refresh the connection.\n3. **Test with another device:** Plug the keyboard into another computer or phone to see if it works there. If it does, the issue is with your original setup; if not, the keyboard itself may be faulty.\n\nIf none of these work, you may need to contact technical support for further diagnosis."
+        "ai_answer": "Possible cause: Too many programs are running at once.\n\nSolution:\n1. Close browser tabs and apps you aren't using.\n2. Restart your computer.\n3. Delete old files to free up disk space."
     }
 ]
